@@ -1,0 +1,5 @@
+C:\Users\bryan\Desktop\FRM\ColchoneriaLasCobijas_Proj\CapaModeloJose\bin\Debug\CapaModeloJose.dll
+C:\Users\bryan\Desktop\FRM\ColchoneriaLasCobijas_Proj\CapaModeloJose\bin\Debug\CapaModeloJose.pdb
+C:\Users\bryan\Desktop\FRM\ColchoneriaLasCobijas_Proj\CapaModeloJose\obj\Debug\CapaModeloJose.csproj.CoreCompileInputs.cache
+C:\Users\bryan\Desktop\FRM\ColchoneriaLasCobijas_Proj\CapaModeloJose\obj\Debug\CapaModeloJose.dll
+C:\Users\bryan\Desktop\FRM\ColchoneriaLasCobijas_Proj\CapaModeloJose\obj\Debug\CapaModeloJose.pdb
